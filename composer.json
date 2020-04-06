@@ -1,5 +1,5 @@
 {
-    "name": "optimus/api-consumer",
+    "name": "phuongtt/api-consumer",
     "require": {
         "laravel/framework": "~5.2"
     },
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Optimus\\ApiConsumer\\": "src/"
+            "Phuongtt\\ApiConsumer\\": "src/"
         }
     },
     "minimum-stability": "dev",
