@@ -1,9 +1,9 @@
 <?php
 
-namespace Optimus\ApiConsumer\Provider;
+namespace Phuongtt\ApiConsumer\Provider;
 
 use Illuminate\Support\ServiceProvider as BaseProvider;
-use Optimus\ApiConsumer\Router;
+use Phuongtt\ApiConsumer\Router;
 
 class LaravelServiceProvider extends BaseProvider {
 

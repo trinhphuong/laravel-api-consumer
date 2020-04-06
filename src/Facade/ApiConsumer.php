@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\ApiConsumer\Facade;
+namespace Phuongtt\ApiConsumer\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
